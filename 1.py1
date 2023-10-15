@@ -2,4 +2,8 @@ a = int(input())
 if a ==0:
 print("hi")
 else:
+<<<<<<< Updated upstream
 print('hello')
+=======
+print('привет')
+>>>>>>> Stashed changes
